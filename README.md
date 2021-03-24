@@ -1,2 +1,2 @@
 # DataMiningHW
-This is for Data Mining HW at Case Western Reserve University
+This is for CSDS435 at Case Western Reserve University 
